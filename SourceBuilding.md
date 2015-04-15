@@ -1,0 +1,1 @@
+# [replaced by the new wiki](https://github.com/libgdx/libgdx/wiki/Building-libgdx-from-source) #

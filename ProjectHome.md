@@ -1,0 +1,1 @@
+# Libgdx has [moved to Github](https://github.com/libgdx/libgdx/) #

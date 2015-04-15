@@ -1,0 +1,1 @@
+# [Replaced by the new wiki](https://github.com/libgdx/libgdx/wiki/Screen-%26-viewport) #

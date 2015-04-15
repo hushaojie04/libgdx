@@ -1,0 +1,1 @@
+# [Replaced by the new wiki](https://github.com/libgdx/libgdx/wiki/Mesh%2C-color-%26-texture) #

@@ -1,0 +1,1 @@
+# [Replaced by the new wiki](https://github.com/libgdx/libgdx/wiki/Textures%2C-textureregion-and-spritebatch) #

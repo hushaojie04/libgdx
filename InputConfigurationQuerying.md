@@ -1,0 +1,1 @@
+# [Replaced by the new wiki](https://github.com/libgdx/libgdx/wiki/Configuration-%26-querying) #

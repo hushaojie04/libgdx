@@ -1,0 +1,1 @@
+# [replaced by the new wiki (plus awesome new info!)](https://github.com/libgdx/libgdx/wiki/Using-libgdx-with-other-jvm-languages) #

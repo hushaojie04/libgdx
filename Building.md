@@ -1,0 +1,1 @@
+[Please visit the new wiki](http://github.com/libgdx/libgdx/wiki)

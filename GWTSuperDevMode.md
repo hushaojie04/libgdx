@@ -1,0 +1,1 @@
+# [replaced by the new wiki](https://github.com/libgdx/libgdx/wiki/Gwt-super-dev-mode) #

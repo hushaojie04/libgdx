@@ -1,0 +1,1 @@
+# [Replaced by the new wiki](https://github.com/libgdx/libgdx/wiki/Clipping%2C-with-the-use-of-scissorstack) #
